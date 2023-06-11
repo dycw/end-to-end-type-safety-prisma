@@ -1,13 +1,12 @@
 {
   "name": "backend",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "",
   "type": "module",
   "scripts": {
-    "build": "pnpm i && pnpx prisma generate",
+    "build": "npm i && pnpx prisma generate",
     "dev": "tsc && node --experimental-specifier-resolution=node ./dist/src/index.js",
-    "devw": "tsc-watch --noClear --onSuccess \"node --experimental-specifier-resolution=node ./dist/src/index.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devw": "tsc-watch --noClear --onSuccess \"node --experimental-specifier-resolution=node ./dist/src/index.js\""
   },
   "prisma": {
     "seed": "tsc && node ./dist/prisma/seed.js"
