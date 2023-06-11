@@ -18,6 +18,7 @@
 ## Part 4 (codegen & deployment)
 
 - https://www.prisma.io/blog/e2e-type-safety-graphql-react-4-JaHA8GbkER
+- https://www.youtube.com/watch?v=-nINYq2QMlA
 
 ## Getting started
 
