@@ -1,6 +1,7 @@
-# `template-react`
+# End-To-End Type-Safety with GraphQL, Prisma & React (Prisma)
 
-Template for React repositories
+- https://www.prisma.io/blog/e2e-type-safety-graphql-react-1-I2GxIfxkSZ
+- https://www.youtube.com/watch?v=ottWptFQJgk
 
 ## Getting started
 
